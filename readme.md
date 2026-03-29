@@ -104,6 +104,16 @@ Selecting a mark on any chart automatically filters the rest of the dashboard.
 
 ---
 
+## 💡 Key Insights You Can Explore
+
+- Which aircraft types receive the highest and lowest ratings?
+- How have British Airways ratings trended over the years?
+- Which traveller types (business vs leisure) rate the airline differently?
+- Which routes or regions generate the most dissatisfied customers?
+- Is there a gap between overall satisfaction and value for money?
+
+---
+
 ## 🛠️ Built With
 
 - [Tableau Desktop](https://www.tableau.com/) 2025.3
@@ -141,10 +151,3 @@ Selecting a mark on any chart automatically filters the rest of the dashboard.
 
 ---
 
-## 💡 Key Insights You Can Explore
-
-- Which aircraft types receive the highest and lowest ratings?
-- How have British Airways ratings trended over the years?
-- Which traveller types (business vs leisure) rate the airline differently?
-- Which routes or regions generate the most dissatisfied customers?
-- Is there a gap between overall satisfaction and value for money?
