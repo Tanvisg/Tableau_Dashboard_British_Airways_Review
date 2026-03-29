@@ -141,6 +141,10 @@ Selecting a mark on any chart automatically filters the rest of the dashboard.
 
 ---
 
-## 📄 License
+## 💡 Key Insights You Can Explore
 
-This project is for educational and portfolio purposes. Review data is publicly available from airline review aggregators.
+- Which aircraft types receive the highest and lowest ratings?
+- How have British Airways ratings trended over the years?
+- Which traveller types (business vs leisure) rate the airline differently?
+- Which routes or regions generate the most dissatisfied customers?
+- Is there a gap between overall satisfaction and value for money?
