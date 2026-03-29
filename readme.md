@@ -16,34 +16,34 @@ An interactive Tableau dashboard that analyses customer reviews of British Airwa
 ### 1. Summary
 
 <!-- Replace the line below with your screenshot: ![Summary Sheet](images/summary.png) -->
-![alt text](summary.png)
+![alt text](images/summary.png)
 
 The Summary sheet serves as the at-a-glance overview of the entire dashboard. It displays KPI cards for all seven service metrics — **Overall Rating, Cabin Staff Service, Entertainment, Food & Beverages, Ground Services, Seat Comfort,** and **Value for Money** — as average scores across all reviews. This sheet gives viewers an immediate sense of how British Airways performs overall before diving into any specific dimension or filter.
 
 ---
 
-### 2. Map — Average `<Metric>` by Country
+### 2. Map — Average `Ground Services` by Country
 
 <!-- Replace the line below with your screenshot: ![Map Sheet](images/map.png) -->
-![alt text](map.png)
+![alt text](images/map.png)
 
 The Map sheet plots average ratings geographically, colour-coding each country by the currently selected metric. It uses Tableau's built-in map layer joined against the `Countries.csv` lookup table (which includes continent and region data) to accurately geocode reviewer locations. This view is useful for spotting regional patterns — for example, whether passengers from certain continents consistently rate BA higher or lower than the global average.
 
 ---
 
-### 3. Aircraft — Average `<Metric>` by Aircraft
+### 3. Aircraft — Average `Value for money` by Aircraft
 
 <!-- Replace the line below with your screenshot: ![Aircraft Sheet](images/aircraft.png) -->
-![alt text](artifact_graph.png)
+![alt text](images/artifact_graph.png)
 
 The Aircraft sheet breaks down the selected metric by aircraft type using a grouped/binned dimension that consolidates variant spellings and model combinations (e.g., "A320 neo", "A320 Neo", "A320-200" are grouped together). This makes it easy to compare passenger experience across BA's fleet — from the Airbus A380 on long-haul routes to the A319/A320 family on short-haul European services — and identify which aircraft types are most and least well-received.
 
 ---
 
-### 4. Month — Average `<Metric>` by Month
+### 4. Month — Average `Overall Rating` by Month
 
 <!-- Replace the line below with your screenshot: ![Month Sheet](images/month.png) -->
-![alt text](monthly_line_graph.png)
+![alt text](images/monthly_line_graph.png)
 
 The Month sheet tracks how the selected rating metric has trended over time, plotted by the month the flight was taken (`date_flown`). This view is particularly useful for identifying seasonal patterns, the impact of major operational events (e.g., post-COVID recovery, fleet changes), or gradual shifts in passenger sentiment over the years.
 
