@@ -7,7 +7,7 @@ An interactive Tableau dashboard that analyses customer reviews of British Airwa
 ## 📸 Dashboard Preview
 
 <!-- Replace the line below with your screenshot: ![Dashboard Overview](images/dashboard_overview.png) -->
-![alt text](dashboard_image.png)
+![alt text](images/dashboard_image.png)
 
 ---
 
